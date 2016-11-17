@@ -1,6 +1,7 @@
 # AssetTrackerRK
 *Alternative library for the Particle AssetTracker/Electron based on TinyGPS++*
-Optimized for local development by [Nathan Robinson](http://github.com/nrobinson2000)
+
+**Optimized for local development by [Nathan Robinson](http://github.com/nrobinson2000)**
 
 This is an alternative implementation of the library for the Particle Electron AssetTracker. I used my own [LIS3DH driver] (https://github.com/rickkas7/) and [TinyGPS++] (https://github.com/mikalhart/TinyGPSPlus).
 
